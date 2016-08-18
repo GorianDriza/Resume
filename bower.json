@@ -1,0 +1,7 @@
+{
+  "name": "resume",
+  "private": true,
+  "dependencies": {
+    "foundation-sites": "~6.0.5"
+  }
+}
